@@ -1,0 +1,11 @@
+Fri Apr  1 07:58:40 2022:Device1: Temp=6, Humid=59, Iilum=148
+Fri Apr  1 07:58:41 2022:Device1: Temp=40, Humid=88, Iilum=94
+Fri Apr  1 07:58:43 2022:Device2: Heartbeat=113, Steps=5152, Cal=3173
+Fri Apr  1 07:58:43 2022:Device2: Heartbeat=103, Steps=4996, Cal=2390
+Fri Apr  1 07:58:44 2022:Device1: Temp=27, Humid=62, Iilum=104
+Fri Apr  1 07:58:45 2022:Device2: Heartbeat=132, Steps=5890, Cal=3089
+Fri Apr  1 07:58:50 2022:Device1: Temp=35, Humid=64, Iilum=120
+Fri Apr  1 07:58:52 2022:Device1: Temp=11, Humid=18, Iilum=125
+Fri Apr  1 07:59:06 2022:Device2: Heartbeat=93, Steps=5479, Cal=1837
+Fri Apr  1 07:59:15 2022:Device1: Temp=4, Humid=95, Iilum=118
+Fri Apr  1 07:59:16 2022:Device2: Heartbeat=58, Steps=3445, Cal=3313
